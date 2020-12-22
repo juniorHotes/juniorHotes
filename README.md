@@ -1,4 +1,4 @@
-# 👨 Sobre mim
+# 👨 Um pouco sobre mim
 
 Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas redes socias, meu primeiro sistema operacional que utilizei foi Windows 95 quando tinha apenas 13 anos e logo me dediquei a descobrir como as coisas funcionavam, então cursei montagem e manutenção de computadores e de lá pra cá a minha curiosidade só aumentou, sempre gostei muito de jogos eletrônicos e então despertou uma curiosidade, descobrir como eles eram feitos então aprende C Sharp e criei alguns projetos e logo depois desenvolvimento web e mobile que me atraiu e desde então me dedíco a aprender as tecnologias do momento, programação para mim não é apenas trabalho e sim minha maior paixão.
 
@@ -8,7 +8,7 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
   </a>
 </p>
 
-# Abilidades
+# 💻 Principais abilidades
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
@@ -27,5 +27,7 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp" title="C%23">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity">
 </p>
+
+<hr></hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorHotes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
