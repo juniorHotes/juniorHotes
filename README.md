@@ -9,7 +9,7 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
 </p>
 
 # Abilidades
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
@@ -28,8 +28,4 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity">
 </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorHotes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juniorHotes&count_private=true)
-
-
