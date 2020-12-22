@@ -8,8 +8,8 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
   </a>
 </p>
 
-<h1 class="titles">Abilidades</h1>
-<ul>
+# Abilidades
+<p align="center">
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"></li>
 <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"></li>
 <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"></li>
@@ -26,7 +26,7 @@ Olá! Meu nome é João Domingos mais também conhecido como Junior Hotes nas re
 <li><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite"></li>
 <li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp" title="C%23"></li>
 <li><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity"></li>
-</ul>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorHotes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
