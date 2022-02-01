@@ -1,6 +1,6 @@
 # 👨 Um pouco sobre mim
 
-Olá! Meu nome é João Domingos mas também conhecido como Junior Hotes nas redes socias, sou apaixonado por tecnologia e desenvolvimento de softwares, procuro sempre estar por dentro das novidades tecnológicas, sempre prezo pelas melhores práticas de desenvolvimento, boa qualidade e eficiência do mesmo. Atualmente tenho duas aplicações publicadas na Google Play Store, Pusic - Percepção Musical e HarmônicoFree. Também atuo como freelancer.
+Olá! Meu nome é João Domingos mas também conhecido como Junior Hotes nas redes sócias, sou apaixonado por tecnologia e desenvolvimento de softwares, procuro sempre estar por dentro das novidades tecnológicas, sempre prezo pelas melhores práticas de desenvolvimento, boa qualidade e eficiência do mesmo. Atualmente tenho duas aplicações publicadas na Google Play Store, Pusic - Percepção Musical e HarmônicoFree. Também atuo como freelancer.
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_black">
